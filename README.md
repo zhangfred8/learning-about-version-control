@@ -3,4 +3,4 @@ Learning about Version Control
 
 for DSCI 310, A2
 
-Solve merge conflicts are sooooo hard!
+Solving merge conflicts takes effort, but I can do it!
